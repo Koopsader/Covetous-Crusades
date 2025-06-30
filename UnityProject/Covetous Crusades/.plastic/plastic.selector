@@ -1,0 +1,4 @@
+repository "Covetous Crusades/Covetous Crusades@2475839559367@cloud"
+  path "/"
+    br "/main"
+    co "/main"
